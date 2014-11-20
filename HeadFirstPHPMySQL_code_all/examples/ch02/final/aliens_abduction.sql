@@ -12,6 +12,7 @@ CREATE TABLE `aliens_abduction` (
 );
 
 
+
 INSERT INTO `aliens_abduction` VALUES ('Alf', 'Nader', '2000-07-12', 'one week', 'at least 12', 'It was a big non-recyclable shiny disc full of what appeared to be mutated labor union officials.', 'Swooped down from the sky and snatched me up with no warning.', 'no', 'That\'s it.', 'alf@nader.com');
 INSERT INTO `aliens_abduction` VALUES ('Don', 'Quayle', '1991-09-14', '37 seconds', 'dunno', 'They looked like donkeys made out of metal with some kind of jet packs attached to them.', 'I was sitting there eating a baked potatoe when "Zwoosh!", this beam of light took me away.', 'yes', 'I really do love potatos.', 'dq@iwasvicepresident.com');
 INSERT INTO `aliens_abduction` VALUES ('Rick', 'Nixon', '1969-01-21', 'nearly 4 years', 'just one', 'They were pasty and pandering, and not very forgiving.', 'Impeached me, of course, then they probed me.', 'no', 'I\'m lonely.', 'rnixon@not');
